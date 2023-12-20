@@ -6,7 +6,7 @@
 This AI Face Recognizer is a Python-based project developed using Jupyter Notebook. It can accurately determine the gender and facial expression of individuals in images. The project leverages popular deep learning frameworks and models for facial recognition tasks.
 
 ## Features
-- Gender recognition: The AI model predicts the gender of the person in the image.
+- Gender recognition: The AI model predicts the gender of the person in the image.(currently there is some buggs,worcking on it)
 - Facial expression recognition: The model identifies the facial expression, providing insights into the emotions conveyed.
 
 ## Usage
